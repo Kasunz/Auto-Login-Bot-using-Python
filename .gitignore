@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.chromedriver-win64/
+
 # C extensions
 *.so
 
