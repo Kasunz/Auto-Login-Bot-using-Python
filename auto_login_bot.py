@@ -56,6 +56,9 @@ def main():
     bot.start_browser()
     bot.login()
 
+    # Keep the browser open
+    input("Press Enter to close the browser...")
+
     # close the browser  after login
     # bot.close_browser()
 
